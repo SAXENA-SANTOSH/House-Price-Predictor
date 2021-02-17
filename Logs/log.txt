@@ -1,0 +1,206 @@
+  Date       Day       Time        Type          Message
+02/17/21     Wed     23:01:27     Check     File name validation Initialized
+02/17/21     Wed     23:01:27     Check     Generation of directories Initialized
+02/17/21     Wed     23:01:27     Done      Generation of directories Completed
+02/17/21     Wed     23:01:27     Check     File name validation Initialized
+02/17/21     Wed     23:01:27     Done      File name validation Completed
+02/17/21     Wed     23:01:27     Check     File Data Validation Initialized
+02/17/21     Wed     23:01:27     Check     Loading Source of Truth Initialized
+02/17/21     Wed     23:01:27     Done      Loading Source of Truth Done
+02/17/21     Wed     23:01:27     Check     File data validation Initialized
+02/17/21     Wed     23:01:28     Done      File data validation Completed
+02/17/21     Wed     23:01:28     Check     Database insertion Initialized
+02/17/21     Wed     23:01:28     Check     Database Connectivity Initialized
+02/17/21     Wed     23:01:28     Done      Database Connectivity Completed
+02/17/21     Wed     23:01:28     Done      Database Initialized
+02/17/21     Wed     23:01:28     Check     Database Initialized
+02/17/21     Wed     23:01:28     Done      Database Created
+02/17/21     Wed     23:01:28     Check     Table Creation Initialized
+02/17/21     Wed     23:01:28     Done      Table Created Successfully
+02/17/21     Wed     23:01:28     Check     Inserting of data into database Initialized
+02/17/21     Wed     23:01:35     Done      Insertion of data on database is Completed
+02/17/21     Wed     23:01:35     Check     Exporting to .csv Initialized
+02/17/21     Wed     23:01:35     Done      Exporting to .csv Completed
+02/17/21     Wed     23:01:35     Check     Data Transformation Initialized
+02/17/21     Wed     23:01:35     Check     Recovering Missing values Initialized
+02/17/21     Wed     23:01:35     Done      Recovering Missing values Completed
+02/17/21     Wed     23:01:35     Check     Generating files Initialized
+02/17/21     Wed     23:01:35     Done      Generating files Completed
+02/17/21     Wed     23:01:35     Check     Scaling values Initialized
+02/17/21     Wed     23:01:35     Done      Scaling values Completed
+02/17/21     Wed     23:01:35     Check     Splitting X and y Initialized
+02/17/21     Wed     23:01:35     Done      Spliiting X and y Completed
+02/17/21     Wed     23:01:35     Check     Label Encoding Initialized
+02/17/21     Wed     23:01:35     Done      Label Encoding Completed
+02/17/21     Wed     23:01:35     Check     Exporting processed .csv file Initialized
+02/17/21     Wed     23:01:35     Done      Exporting processed .csv file Completed
+02/17/21     Wed     23:01:35     Check     Data Preprocessing Initialized
+02/17/21     Wed     23:01:35     Check     Data Preprocessing Pipeline Initialized
+02/17/21     Wed     23:01:35     Check     Generating_Files Initialized
+02/17/21     Wed     23:01:35     Done      Generating_Files Completed
+02/17/21     Wed     23:01:38     Check     Dimensionality Redction Initialized
+02/17/21     Wed     23:01:38     Done      Dimensionality Reduction Completed
+02/17/21     Wed     23:01:38     Check     Clustering Initialized
+02/17/21     Wed     23:01:46     Done      Clustering Completed
+02/17/21     Wed     23:01:46     Check     Exporting Clusered dataset Initialized
+02/17/21     Wed     23:01:47     Done      Exporting Clustered dataset Completed
+02/17/21     Wed     23:01:47     Done      Data Preprocessing Pipeline Completed
+02/17/21     Wed     23:01:47     Check     8 Cluster
+02/17/21     Wed     23:01:47     Check     Less number of samples hence rejected treated as Outlier
+02/17/21     Wed     23:01:47     Check     1 Cluster
+02/17/21     Wed     23:01:47     Check     ML training Initialized
+02/17/21     Wed     23:01:47     Check     ML Training Pipeline Started
+02/17/21     Wed     23:01:47     Check     Generating Files Initialized
+02/17/21     Wed     23:01:47     Done      Generating Files Completed
+02/17/21     Wed     23:01:47     Check     Selecting best model Initialized
+02/17/21     Wed     23:01:47     Check     Separating data into X and y Initialized
+02/17/21     Wed     23:01:47     Done      Separating data into X and y Completed
+02/17/21     Wed     23:01:47     Check     Model Selection Initialized
+02/17/21     Wed     23:01:47     Done      Model Selection Completed
+02/17/21     Wed     23:01:47     Check     Up till now
+02/17/21     Wed     23:01:48     Done      Selecting best model Completed
+02/17/21     Wed     23:01:48     Check     Ensemble selection and exporting Initialized
+02/17/21     Wed     23:01:52     Check     SVR(kernel='poly') model is selected for cluster 1
+02/17/21     Wed     23:01:52     Check     0.8718743852299873 is the accuracy
+02/17/21     Wed     23:01:52     Done      Ensemble selection and exporting Completed
+02/17/21     Wed     23:01:52     Done      ML Training Pipeline Completed
+02/17/21     Wed     23:01:52     Check     4 Cluster
+02/17/21     Wed     23:01:52     Check     Less number of samples hence rejected treated as Outlier
+02/17/21     Wed     23:01:52     Check     10 Cluster
+02/17/21     Wed     23:01:52     Check     ML training Initialized
+02/17/21     Wed     23:01:52     Check     ML Training Pipeline Started
+02/17/21     Wed     23:01:52     Check     Generating Files Initialized
+02/17/21     Wed     23:01:52     Done      Generating Files Completed
+02/17/21     Wed     23:01:52     Check     Selecting best model Initialized
+02/17/21     Wed     23:01:52     Check     Separating data into X and y Initialized
+02/17/21     Wed     23:01:52     Done      Separating data into X and y Completed
+02/17/21     Wed     23:01:52     Check     Model Selection Initialized
+02/17/21     Wed     23:01:52     Done      Model Selection Completed
+02/17/21     Wed     23:01:52     Check     Up till now
+02/17/21     Wed     23:01:53     Done      Selecting best model Completed
+02/17/21     Wed     23:01:53     Check     Ensemble selection and exporting Initialized
+02/17/21     Wed     23:01:55     Check     SVR(gamma='auto') model is selected for cluster 10
+02/17/21     Wed     23:01:55     Check     0.7218130916772549 is the accuracy
+02/17/21     Wed     23:01:55     Done      Ensemble selection and exporting Completed
+02/17/21     Wed     23:01:55     Done      ML Training Pipeline Completed
+02/17/21     Wed     23:01:55     Check     7 Cluster
+02/17/21     Wed     23:01:55     Check     ML training Initialized
+02/17/21     Wed     23:01:55     Check     ML Training Pipeline Started
+02/17/21     Wed     23:01:55     Check     Generating Files Initialized
+02/17/21     Wed     23:01:55     Done      Generating Files Completed
+02/17/21     Wed     23:01:55     Check     Selecting best model Initialized
+02/17/21     Wed     23:01:55     Check     Separating data into X and y Initialized
+02/17/21     Wed     23:01:55     Done      Separating data into X and y Completed
+02/17/21     Wed     23:01:55     Check     Model Selection Initialized
+02/17/21     Wed     23:01:55     Done      Model Selection Completed
+02/17/21     Wed     23:01:55     Check     Up till now
+02/17/21     Wed     23:01:56     Done      Selecting best model Completed
+02/17/21     Wed     23:01:56     Check     Ensemble selection and exporting Initialized
+02/17/21     Wed     23:01:57     Check     BaggingRegressor(base_estimator=SVR()) model is selected for cluster 7
+02/17/21     Wed     23:01:57     Check     0.7544295929834273 is the accuracy
+02/17/21     Wed     23:01:57     Done      Ensemble selection and exporting Completed
+02/17/21     Wed     23:01:57     Done      ML Training Pipeline Completed
+02/17/21     Wed     23:01:57     Check     2 Cluster
+02/17/21     Wed     23:01:57     Check     ML training Initialized
+02/17/21     Wed     23:01:57     Check     ML Training Pipeline Started
+02/17/21     Wed     23:01:57     Check     Generating Files Initialized
+02/17/21     Wed     23:01:57     Done      Generating Files Completed
+02/17/21     Wed     23:01:57     Check     Selecting best model Initialized
+02/17/21     Wed     23:01:57     Check     Separating data into X and y Initialized
+02/17/21     Wed     23:01:57     Done      Separating data into X and y Completed
+02/17/21     Wed     23:01:57     Check     Model Selection Initialized
+02/17/21     Wed     23:01:57     Done      Model Selection Completed
+02/17/21     Wed     23:01:57     Check     Up till now
+02/17/21     Wed     23:01:58     Done      Selecting best model Completed
+02/17/21     Wed     23:01:58     Check     Ensemble selection and exporting Initialized
+02/17/21     Wed     23:01:59     Check     BaggingRegressor(base_estimator=SVR(kernel='poly')) model is selected for cluster 2
+02/17/21     Wed     23:01:59     Check     0.7990814740737664 is the accuracy
+02/17/21     Wed     23:01:59     Done      Ensemble selection and exporting Completed
+02/17/21     Wed     23:01:59     Done      ML Training Pipeline Completed
+02/17/21     Wed     23:01:59     Check     11 Cluster
+02/17/21     Wed     23:01:59     Check     ML training Initialized
+02/17/21     Wed     23:01:59     Check     ML Training Pipeline Started
+02/17/21     Wed     23:01:59     Check     Generating Files Initialized
+02/17/21     Wed     23:01:59     Done      Generating Files Completed
+02/17/21     Wed     23:01:59     Check     Selecting best model Initialized
+02/17/21     Wed     23:01:59     Check     Separating data into X and y Initialized
+02/17/21     Wed     23:01:59     Done      Separating data into X and y Completed
+02/17/21     Wed     23:01:59     Check     Model Selection Initialized
+02/17/21     Wed     23:01:59     Done      Model Selection Completed
+02/17/21     Wed     23:01:59     Check     Up till now
+02/17/21     Wed     23:02:00     Done      Selecting best model Completed
+02/17/21     Wed     23:02:00     Check     Ensemble selection and exporting Initialized
+02/17/21     Wed     23:02:01     Check     SVR(gamma='auto', kernel='poly') model is selected for cluster 11
+02/17/21     Wed     23:02:01     Check     0.9141227861536302 is the accuracy
+02/17/21     Wed     23:02:01     Done      Ensemble selection and exporting Completed
+02/17/21     Wed     23:02:01     Done      ML Training Pipeline Completed
+02/17/21     Wed     23:02:01     Check     5 Cluster
+02/17/21     Wed     23:02:01     Check     ML training Initialized
+02/17/21     Wed     23:02:01     Check     ML Training Pipeline Started
+02/17/21     Wed     23:02:01     Check     Generating Files Initialized
+02/17/21     Wed     23:02:01     Done      Generating Files Completed
+02/17/21     Wed     23:02:01     Check     Selecting best model Initialized
+02/17/21     Wed     23:02:01     Check     Separating data into X and y Initialized
+02/17/21     Wed     23:02:01     Done      Separating data into X and y Completed
+02/17/21     Wed     23:02:01     Check     Model Selection Initialized
+02/17/21     Wed     23:02:01     Done      Model Selection Completed
+02/17/21     Wed     23:02:01     Check     Up till now
+02/17/21     Wed     23:02:02     Done      Selecting best model Completed
+02/17/21     Wed     23:02:02     Check     Ensemble selection and exporting Initialized
+02/17/21     Wed     23:02:03     Check     SVR(gamma='auto') model is selected for cluster 5
+02/17/21     Wed     23:02:03     Check     0.8688920600682846 is the accuracy
+02/17/21     Wed     23:02:03     Done      Ensemble selection and exporting Completed
+02/17/21     Wed     23:02:03     Done      ML Training Pipeline Completed
+02/17/21     Wed     23:02:03     Check     9 Cluster
+02/17/21     Wed     23:02:03     Check     Less number of samples hence rejected treated as Outlier
+02/17/21     Wed     23:02:03     Check     3 Cluster
+02/17/21     Wed     23:02:03     Check     ML training Initialized
+02/17/21     Wed     23:02:03     Check     ML Training Pipeline Started
+02/17/21     Wed     23:02:03     Check     Generating Files Initialized
+02/17/21     Wed     23:02:03     Done      Generating Files Completed
+02/17/21     Wed     23:02:03     Check     Selecting best model Initialized
+02/17/21     Wed     23:02:03     Check     Separating data into X and y Initialized
+02/17/21     Wed     23:02:03     Done      Separating data into X and y Completed
+02/17/21     Wed     23:02:03     Check     Model Selection Initialized
+02/17/21     Wed     23:02:03     Done      Model Selection Completed
+02/17/21     Wed     23:02:03     Check     Up till now
+02/17/21     Wed     23:02:04     Done      Selecting best model Completed
+02/17/21     Wed     23:02:04     Check     Ensemble selection and exporting Initialized
+02/17/21     Wed     23:02:05     Check     LinearRegression() model is selected for cluster 3
+02/17/21     Wed     23:02:05     Check     0.7470174625977146 is the accuracy
+02/17/21     Wed     23:02:05     Done      Ensemble selection and exporting Completed
+02/17/21     Wed     23:02:05     Done      ML Training Pipeline Completed
+02/17/21     Wed     23:02:05     Check     6 Cluster
+02/17/21     Wed     23:02:05     Check     ML training Initialized
+02/17/21     Wed     23:02:05     Check     ML Training Pipeline Started
+02/17/21     Wed     23:02:05     Check     Generating Files Initialized
+02/17/21     Wed     23:02:05     Done      Generating Files Completed
+02/17/21     Wed     23:02:05     Check     Selecting best model Initialized
+02/17/21     Wed     23:02:05     Check     Separating data into X and y Initialized
+02/17/21     Wed     23:02:05     Done      Separating data into X and y Completed
+02/17/21     Wed     23:02:05     Check     Model Selection Initialized
+02/17/21     Wed     23:02:05     Done      Model Selection Completed
+02/17/21     Wed     23:02:05     Check     Up till now
+02/17/21     Wed     23:02:06     Done      Selecting best model Completed
+02/17/21     Wed     23:02:06     Check     Ensemble selection and exporting Initialized
+02/17/21     Wed     23:02:08     Check     SVR(kernel='poly') model is selected for cluster 6
+02/17/21     Wed     23:02:08     Check     0.9101175342252449 is the accuracy
+02/17/21     Wed     23:02:08     Done      Ensemble selection and exporting Completed
+02/17/21     Wed     23:02:08     Done      ML Training Pipeline Completed
+02/17/21     Wed     23:02:08     Check     12 Cluster
+02/17/21     Wed     23:02:08     Check     ML training Initialized
+02/17/21     Wed     23:02:08     Check     ML Training Pipeline Started
+02/17/21     Wed     23:02:08     Check     Generating Files Initialized
+02/17/21     Wed     23:02:08     Done      Generating Files Completed
+02/17/21     Wed     23:02:08     Check     Selecting best model Initialized
+02/17/21     Wed     23:02:08     Check     Separating data into X and y Initialized
+02/17/21     Wed     23:02:08     Done      Separating data into X and y Completed
+02/17/21     Wed     23:02:08     Check     Model Selection Initialized
+02/17/21     Wed     23:02:08     Done      Model Selection Completed
+02/17/21     Wed     23:02:08     Check     Up till now
+02/17/21     Wed     23:02:08     Done      Selecting best model Completed
+02/17/21     Wed     23:02:08     Check     Ensemble selection and exporting Initialized
+02/17/21     Wed     23:02:09     Check     BaggingRegressor(base_estimator=SVR()) model is selected for cluster 12
+02/17/21     Wed     23:02:09     Check     0.5554823479503347 is the accuracy
+02/17/21     Wed     23:02:09     Done      Ensemble selection and exporting Completed
+02/17/21     Wed     23:02:09     Done      ML Training Pipeline Completed
