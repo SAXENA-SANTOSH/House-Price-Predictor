@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction</title>
+    <link rel="stylesheet" href="/static/Multiple_prediction.css">
+    <style>
+        body
+        {
+            background-image: url({{url_for('static',filename='House2.jpg')}});
+            background-repeat: no-repeat;
+            background-size: cover;
+        }   
+    </style>
+</head>
+<body>
+    <form action="/multiple_predict" class="form" method="POST">
+        <div class="title">
+            Enter the .csv file path
+        </div>
+        <div >
+            <div>
+                <input type="text" class="input" name="path" id = "path" placeholder= ".csv">
+            </div> 
+            <div  class="button">
+                <button type = "reset" value="Clear form" class="button1"> Reset</button>
+                <div class = "back">
+                    <button type="button" class = "button2" onclick="history.back()"> Back </button>
+                </div>
+                <button value = "submit" class="button2"> Submit</button>
+            </div>
+        </div>
+
+    </form>
+</body>
+</html>

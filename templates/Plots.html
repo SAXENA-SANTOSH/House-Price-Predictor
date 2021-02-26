@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body
+        {
+            background-color: lightblue;
+        }
+        .img
+        {
+            display: inline-block;
+            border: 1px solid black;
+        }
+        button
+        {
+            font-size: 20px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            margin-top: 2%;
+
+        }
+    </style>
+</head>
+<body>
+    <img src= {{url_for('static',filename='Cluster1.jpg')}} class="img" height="500px" width="670px" alt="">
+    <img src= {{url_for('static',filename='Dimensions1.jpg')}} class="img" height="500px" width="670px" alt="">
+    <center>
+        <button onclick = "history.back()">Back</button>
+    </center>
+</body>
+</html>
