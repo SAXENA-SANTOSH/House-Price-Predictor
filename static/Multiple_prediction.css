@@ -1,0 +1,61 @@
+
+.title
+{
+    border: 1px solid black;
+    width: 150%;
+    text-align: center;
+    padding: 4%;
+    border-radius:15px ;
+    color: white;
+    background-color: black;
+}
+.form
+{
+    border: 1px solid black;
+    display: inline-block; 
+    margin-left: 30%;
+    margin-top: 10%;
+    padding-left: 5%;
+    padding-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 25px ;
+    border-radius: 25px;
+    background-color: antiquewhite;
+}
+.input
+{
+    width: 150%;
+    font-size: 22px;
+    margin-top: 25%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.img
+{
+    border: 1px solid black;
+    display: inline;
+}
+.button
+{
+    width: 150%;
+    margin-top: 20%;
+    padding: 5%;
+}
+.back
+{
+    display: inline-block;
+    margin-left: 12%;
+}
+.button1
+{
+    display: inline-block;
+    font-size: 20px;
+}
+.button2
+{
+    display: inline-block;
+    margin-left: 14%;
+    font-size: 20px;
+}

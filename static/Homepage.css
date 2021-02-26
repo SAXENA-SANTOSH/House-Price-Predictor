@@ -1,0 +1,30 @@
+*
+{
+    margin: 0%;
+}
+h1
+{
+    border: 1px solid black;
+    padding: 3px;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(199, 232, 252);
+    color: black;
+}
+
+
+.button
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    display: block;
+    margin-top: 25%;
+    background-color: darkblue;
+    color: white;
+}
+
+div
+{
+    align-items: center;
+}
